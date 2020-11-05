@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00B22A</color>
+    <color name="colorPrimaryDark">#00B22A</color>
+    <color name="colorGreen">#00B22A</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccent">#858585</color>
+    <color name="empty">#999</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="time">#858585</color>
+    <color name="text">#232323</color>
+</resources>
